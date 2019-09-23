@@ -31,7 +31,14 @@ Antud kursuse raames omandatakse baasteadmised programmeerimisest PHP keele alus
   ```
   git push -uf  origin master
   ```
-  
+  *giti kasutamine PhpStorm keskonnas
+  ```
+  VCS -> Commit (Ctrl + K)
+
+* failid, mille sisu on vaha commitida
+* Määra vastsav kirjeldus
+* Committi ära -> Commit and Push
+
   
 ## Abiks
 * [README.md failide süntaks](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
