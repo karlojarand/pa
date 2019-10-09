@@ -43,3 +43,14 @@ Antud kursuse raames omandatakse baasteadmised programmeerimisest PHP keele alus
 ## Abiks
 * [README.md failide süntaks](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
 * [git kursus](https://www.codecademy.com/learn/learn-git) codecademy-is# pa
+
+### 27.09.2019
+
+Kordamine: Get, avutused, ümardamine
+```
+$circleRadius = $_GET['circle-radius'];
+````
+input-label kordamine
+```
+
+```
