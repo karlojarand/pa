@@ -2,7 +2,7 @@
 // Hetkel olev aasta
 $hetkeAasta = 2019;
 //Kasutaja poolt sisestatud aasta
-$sunniAasta = 1998;
+$sunniAasta = 1999;
 // aastate vahe - kasutaja vanus
 $vanus = $hetkeAasta - $sunniAasta;
 echo 'Oled '.$vanus.' aastat vana<br>';
@@ -11,7 +11,7 @@ echo 'Oled '.$vanus.' aastat vana<br>';
 $jaak = $vanus % 5;
 // kui jääk on null, siis vanus eiu jagu 5'ga
 if($jaak == 0){
-echo 'Sel aastal on Jubel, PALJU ÕNNE!<br>';
+echo 'Sel aastal on Juubel, PALJU ÕNNE!<br>';
 } else {
     echo 'Sellel aastal Juubelit ei ole<br>';
 }
