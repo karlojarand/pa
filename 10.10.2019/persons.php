@@ -1,6 +1,6 @@
 <?php
 //defineeri muutujad
-$age = 5;
+$age =5;
 echo 'Vanus = '.$age.'<br>';
 // 0 - 17 laps
 if ($age > 0 and $age < 18) {

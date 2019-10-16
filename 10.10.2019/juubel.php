@@ -2,7 +2,7 @@
 // Hetkel olev aasta
 $hetkeAasta = 2019;
 //Kasutaja poolt sisestatud aasta
-$sunniAasta = 2008;
+$sunniAasta = 1998;
 // aastate vahe - kasutaja vanus
 $vanus = $hetkeAasta - $sunniAasta;
 echo 'Oled '.$vanus.' aastat vana<br>';
