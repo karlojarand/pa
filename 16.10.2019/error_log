@@ -1,0 +1,39 @@
+[16-Oct-2019 12:23:06 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ojarandkarliktkh/public_html/pa/16.10.2019/army.php on line 17
+[16-Oct-2019 12:45:12 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ojarandkarliktkh/public_html/pa/16.10.2019/tarn.php on line 10
+[16-Oct-2019 12:45:13 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ojarandkarliktkh/public_html/pa/16.10.2019/tarn.php on line 10
+[16-Oct-2019 12:45:13 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ojarandkarliktkh/public_html/pa/16.10.2019/tarn.php on line 10
+[16-Oct-2019 12:45:13 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ojarandkarliktkh/public_html/pa/16.10.2019/tarn.php on line 10
+[16-Oct-2019 12:46:41 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ojarandkarliktkh/public_html/pa/16.10.2019/tarn.php on line 13
+[16-Oct-2019 12:46:47 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ojarandkarliktkh/public_html/pa/16.10.2019/tarn.php on line 13
+[16-Oct-2019 13:24:19 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home/ojarandkarliktkh/public_html/pa/16.10.2019/pi_value.php on line 16
+[16-Oct-2019 13:24:44 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home/ojarandkarliktkh/public_html/pa/16.10.2019/pi_value.php on line 16
+[16-Oct-2019 13:24:44 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home/ojarandkarliktkh/public_html/pa/16.10.2019/pi_value.php on line 16
+[16-Oct-2019 13:24:44 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home/ojarandkarliktkh/public_html/pa/16.10.2019/pi_value.php on line 16
+[16-Oct-2019 13:24:44 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home/ojarandkarliktkh/public_html/pa/16.10.2019/pi_value.php on line 16
+[16-Oct-2019 13:24:44 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home/ojarandkarliktkh/public_html/pa/16.10.2019/pi_value.php on line 16
+[16-Oct-2019 13:24:54 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home/ojarandkarliktkh/public_html/pa/16.10.2019/pi_value.php on line 16
+[16-Oct-2019 13:24:58 UTC] PHP Warning:  A non-numeric value encountered in /home/ojarandkarliktkh/public_html/pa/16.10.2019/pi_value.php on line 16
+[16-Oct-2019 13:25:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pi =() in /home/ojarandkarliktkh/public_html/pa/16.10.2019/pi_value.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ojarandkarliktkh/public_html/pa/16.10.2019/pi_value.php on line 16
+[16-Oct-2019 13:25:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pi =() in /home/ojarandkarliktkh/public_html/pa/16.10.2019/pi_value.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ojarandkarliktkh/public_html/pa/16.10.2019/pi_value.php on line 16
+[16-Oct-2019 13:25:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pi =() in /home/ojarandkarliktkh/public_html/pa/16.10.2019/pi_value.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ojarandkarliktkh/public_html/pa/16.10.2019/pi_value.php on line 16
+[16-Oct-2019 13:25:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pi =() in /home/ojarandkarliktkh/public_html/pa/16.10.2019/pi_value.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ojarandkarliktkh/public_html/pa/16.10.2019/pi_value.php on line 16
+[16-Oct-2019 13:25:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pi =() in /home/ojarandkarliktkh/public_html/pa/16.10.2019/pi_value.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ojarandkarliktkh/public_html/pa/16.10.2019/pi_value.php on line 16
+[16-Oct-2019 13:25:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pi =() in /home/ojarandkarliktkh/public_html/pa/16.10.2019/pi_value.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ojarandkarliktkh/public_html/pa/16.10.2019/pi_value.php on line 16

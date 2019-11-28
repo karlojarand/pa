@@ -1,17 +1,32 @@
 <?php
 function isPrime($number){
-    if($muber <2) {
-        echo 'This number is not valid';
-    } else{
-        $divider = 2;
-        while($number % $divider !=0) {
-            $divider++;
-        }
-        if ($number == $divider){
-            echo $number. 'Is prime number'<br>
-            } else{
-            echo $number. 'Is not prime number'<br>
-        }
-    }
+if($number < 2) {
+$result = 'this number is not valid';
+} else {
+$divider = 2;
+while ($number % $divider != 0) {
+$divider++;
 }
+if($number == $divider) {
+$result = true;
+} else {
+$result = false;
+}
+}
+return $result;
+}
+function description($number) {
+echo $number;
+//  if(isPrime($number) == true){} is the same like next row
+if(isPrime($number) === true){
+echo ' is prime';
+} else if(isPrime($number) === false){
+echo ' is not prime';
+} else {
+echo ' - '.isPrime($number);
+}
+echo '<br>';
+}
+// use function
+description(rand(0,99));
 ?>
